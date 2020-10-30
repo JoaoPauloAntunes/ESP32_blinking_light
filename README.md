@@ -1,2 +1,2 @@
 # ESP32_led_pisca_pisca
-Visando estrear o módulo ESP32, gravei nele um pequeno programa feito na IDE do Arduino que faz seu led interno piscar a cada segundo.
+Aiming to debut the ESP32 module, I recorded a small program made in the Arduino IDE that makes its internal LED flash every second.
